@@ -1,3 +1,3 @@
-This is a simple pomodoro clock built with python and tkinter.
-The code is still pretty messy and the program itself is not finished yet...uhm this is just the first version.
-To start the pomodoro, run start_pomodoro.py!
+# Pomodoro Timer
+This is a simple Pomodoro Timer Program you can use to never forget to take a break, make a coffee or do some pushups while you working.
+It is pretty easy to use: Just dowload all the files above and click on the `start_pomodoro.py` file. 
